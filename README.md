@@ -23,6 +23,7 @@ Addresses should be verified against official sources before use. Onion services
 | Service | Links |
 |---|---|
 | DuckDuckGo | [Website](https://duckduckgo.com/) · [Onion](https://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion/) |
+| Ahmia — Onion Search Engine | [Website](https://ahmia.fi/) · [Onion](http://juhanurmihxlp77nkq76byazcldy2hlmovfu2epvl5ankdibsot4csyd.onion/) |
 
 ## Secure Communication & Cloud
 
@@ -43,7 +44,6 @@ Addresses should be verified against official sources before use. Onion services
 |---|---|
 | BBC News | [Website](https://www.bbc.com/news) · [Onion](https://www.bbcnewsd73hkzno2ini43t4gblxvycyac5aw4gnv7t2rccijh7745uqd.onion/) |
 | Deutsche Welle | [Website](https://www.dw.com/) · [Onion](https://dwnewsgngmhlplxy6o2twtfgjnrnjxbegbwqx6wnotdhkzt562tszfid.onion/) |
-| ProPublica | [Website](https://www.propublica.org/) · [Onion](http://p53lf57qovyuvwsc6xnrppyply3vtqm7l6pcobkmyqsiofyeznfu5uqd.onion/) |
 
 ## Secure Submission Portals & Whistleblowing
 
